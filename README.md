@@ -1,5 +1,5 @@
 <h1>Conexión de formulario PHP con MySQL</h1>
-<br><br><br>
+<br>
 
 **Requisitos**
 <br>
